@@ -3,12 +3,13 @@
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - What was your motivation?
-  - To practice my new found knowledge of Progressive Web APplication (PWA) and create a text editor tool.
+  - To create a Book Searcher tool utilizing MERN full stack.
 - Why did you build this project? 
-  - I wanted to create a text editor tool that is utilized in the web browser.
+  - I wanted to create a book searcher tool that is utilized in Heroku and connected to MongoDb Atlas.
 - What problem does it solve?
-  - 
+  - It solves the ability for MERN learning and how a website functions.
 - What did you learn?
+  - That MERN is very complex and Heroku doesn't like my computer this time around.
 
 ## Installation
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
@@ -25,5 +26,3 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-md
-![alt text](client/src/images/Launched_ScreenShot.png)
